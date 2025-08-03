@@ -7,7 +7,6 @@ Sitio web que recopila una serie de contenidos visuales, narrativos, creativos y
 ---
 
 ## 👥 Autores
-
 CAMILA ANDREA CHARRY NORIEGA
 - BRAYAN ALEXANDER MENDEZ ALBA → [brayan.malba@mail.escuelaing.edu.co](mailto:brayan.malba@mail.escuelaing.edu.co)
 - DANIEL ALEJANDRO GARZON ESPITIA → [daniel.garzon-e@mail.escuelaing.edu.co](mailto:daniel.garzon-e@mail.escuelaing.edu.co)
@@ -95,8 +94,7 @@ Este proyecto no contiene pruebas automáticas, ya que es una página estática 
 
 ```bash
 📦 Dedarulf-FCO1
- ┣ 📂 blog
- ┣ 📂 images
+ ┣ 📂 images                                # Carpeta con recursos visuales (fotos, íconos, etc.)
  ┣ 📜 Biografías.ccs
  ┣ 📜 Biografías.html
  ┣ 📜 Caja-metafórica-de-recuerdos.css

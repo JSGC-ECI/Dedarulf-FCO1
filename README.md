@@ -144,7 +144,7 @@ Este proyecto no contiene pruebas automáticas, ya que es una página estática 
 
 Este proyecto está licenciado bajo propósitos académicos y educativos. Puedes consultar el archivo [LICENSE](./LICENSE) para más información.
 
-### ✏️ Créditos
+### Créditos
 
 Plantillas web proporcionadas por [Nicepage](https://nicepage.com/html-templates).
 

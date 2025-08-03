@@ -1,6 +1,6 @@
 # 📌 Dedarulf
 
-> ⚠️ Estado: ✅ Completado
+> ⚠️ Estado: ***EN DESARROLLO*** Versión académica
 
 Sitio web que recopila una serie de contenidos visuales, narrativos, creativos y expresivos divididos en dos secciones: **actividades individuales** y **actividades grupales**. Cada sección contiene enlaces directos a experiencias en forma de biografías, composiciones visuales, poesía, música y más.
 
@@ -95,18 +95,31 @@ Este proyecto no contiene pruebas automáticas, ya que es una página estática 
 
 ```bash
 📦 Dedarulf-FCO1
- ┣ 📜 Home.html
+ ┣ 📂 blog
+ ┣ 📂 images
+ ┣ 📜 Biografías.ccs
  ┣ 📜 Biografías.html
+ ┣ 📜 Caja-metafórica-de-recuerdos.css
  ┣ 📜 Caja-metafórica-de-recuerdos.html
- ┣ 📜 Árbol-genealógico.html
- ┣ 📜 Secuencia-Fotográfica.html
- ┣ 📜 Surrealismo.html
- ┣ 📜 Música.html
+ ┣ 📜 Cortometraje.css
  ┣ 📜 Cortometraje.html
- ┣ 📜 Poemas.html
+ ┣ 📜 Home.css
+ ┣ 📜 Home.html
+ ┣ 📜 Música.css
+ ┣ 📜 Música.html
+ ┣ 📜 Partes-del-cuerpo.css
  ┣ 📜 Partes-del-cuerpo.html
- ┣ 📜 README.md
- ┗ 📂 imágenes/ (si decides incluir capturas)
+ ┣ 📜 Poemas.css
+ ┣ 📜 Poemas.html
+ ┣ 📜 Secuencia-Fotográfica.css
+ ┣ 📜 Secuencia-Fotográfica.html
+ ┣ 📜 Surrealismo.css
+ ┣ 📜 Surrealismo.html
+ ┣ 📜 jquery.js
+ ┣ 📜 nicepage.css
+ ┣ 📜 nicepage.js
+ ┣ 📜 Árbol-genealógico.css
+ ┗ 📜 Árbol-genealógico.html  
 ```
 
 ---
